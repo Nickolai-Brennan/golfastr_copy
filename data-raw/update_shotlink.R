@@ -32,7 +32,7 @@ out_dir <- file.path(cache_dir, "out")
 dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
 if (length(seasons) == 0) stop("Pass one or more seasons, e.g. 2025 2024")
 
-api_key <- "da2-gsrx5bibzbb4njvhl7t37wqyl4"
+"
 
 # --- requests ---------------------------------------------------------------
 
